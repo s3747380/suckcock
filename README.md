@@ -1,6 +1,6 @@
 # COSC2101 SEPT
 
-# Doctor Appointment Booking System [![Build Status](https://travis-ci.org/s3740805/SEPT_Group13.svg?branch=master)](https://travis-ci.org/s3740805/SEPT_Group13)
+# Doctor Appointment Booking System
 
 ### Group 13
 > * Nguyen Le Thuy Linh
@@ -8,31 +8,6 @@
 > * Truong Phu Cuong
 > * Le Ngoc Danh
 
-## BACKEND
-### Backend using:
-* MySQL
-* Spring MVC
-* Hibernate
-
-### Before running:
-- Go to file `.../config/AppConfig.java` and make changes based on your database.    
-```
-  dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-  dataSource.setUrl("jdbc:mysql://localhost:[your port]/[your schema]");
-  dataSource.setUsername([your username]);
-  dataSource.setPassword([your password]);
-```
-### Running:
-- Open terminal
-```
-  cd [your path to ../Backend]
-  mvn clean install
-  mvn jetty:run
-```
-
-`Access through:` http://localhost:8080/
-
-##  FRONTEND
 ### Frontend with Registration & Login using:
 * MySQL
 * Spring Boot
@@ -61,9 +36,8 @@
 `Access through:` http://localhost:9090/
 
 `Default ADMIN account:`
-> * Username: admin
-> * Password: admin123
+> Username: admin
+> Password: admin123
 
-`Default PATIENT/USER account:`
-> * Username: patient
-> * Password: patient123
+    
+   
