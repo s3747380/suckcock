@@ -1,0 +1,10 @@
+controller\PatientControllerTest.class
+model\PatientModelTest.class
+TestConfig.class
+controller\BookingControllerTest.class
+MyTest.class
+model\BookingModelTest.class
+controller\DoctorControllerTest.class
+MyTest$2.class
+model\DoctorModelTest.class
+MyTest$1.class
