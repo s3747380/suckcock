@@ -18,83 +18,14 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:Backend" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5530246-c760-48fb-8bb9-2d9b55f821b5" name="Default Changelist" comment="Add status. fix book error">
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/config/WebAppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/config/WebAppInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/controller/BookingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/controller/BookingController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/controller/DoctorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/controller/DoctorController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/controller/PatientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/controller/PatientController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/model/Booking.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/model/Booking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/model/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/model/Doctor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/model/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/model/Patient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/service/BookingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/service/BookingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/service/DoctorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/service/DoctorService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/classes/service/PatientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/classes/service/PatientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/MyTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/MyTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/MyTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/MyTest$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/TestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/TestConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/controller/BookingControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/controller/BookingControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/controller/DoctorControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/controller/DoctorControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/controller/PatientControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/controller/PatientControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/model/BookingModelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/model/BookingModelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/model/DoctorModelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/model/DoctorModelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Backend/target/test-classes/model/PatientModelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/target/test-classes/model/PatientModelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/patient/booking.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/patient/booking.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/patient/bookingHistory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/patient/bookingHistory.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/booking.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/bookingHistory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bookingHistory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/WebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WebApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/model/Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/repository/RoleRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/SecurityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/SecurityService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/SecurityServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/SecurityServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/UserDetailsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/validator/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/validator/UserValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/DataSeeding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/DataSeeding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/HandleErrorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/HandleErrorController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/model/UserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/model/UserTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -320,6 +251,8 @@
       <workItem from="1599579785329" duration="469000" />
       <workItem from="1599636933495" duration="826000" />
       <workItem from="1599797351026" duration="2565000" />
+      <workItem from="1600008461481" duration="80000" />
+      <workItem from="1600008677928" duration="69000" />
     </task>
     <task id="LOCAL-00001" summary="danh commit">
       <created>1597830445541</created>
@@ -405,6 +338,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599206090596" />
+    <state x="690" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600008710469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600008710469" />
     <state x="738" y="373" width="718" height="294" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1597831343754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
