@@ -1,9 +1,9 @@
-model/BookingModelTest.class
+controller\PatientControllerTest.class
+model\PatientModelTest.class
 TestConfig.class
-controller/DoctorControllerTest.class
-controller/PatientControllerTest.class
+controller\BookingControllerTest.class
 MyTest.class
-controller/BookingControllerTest.class
-model/DoctorModelTest.class
+model\BookingModelTest.class
+controller\DoctorControllerTest.class
+model\DoctorModelTest.class
 MyTest$1.class
-model/PatientModelTest.class
