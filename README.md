@@ -8,36 +8,29 @@
 > * Truong Phu Cuong
 > * Le Ngoc Danh
 
-### Frontend with Registration & Login using:
+### Backend using:
 * MySQL
-* Spring Boot
-* Spring Security
-* Spring Data JPA
+* Spring MVC
 * Hibernate
-* JSP
-* Bootstrap
 
 ### Before running:
-- Go to file `.../resources/application.properties` and make changes based on your database.
-    
-```spel
-  spring.datasource.url=jdbc:mysql://localhost:[your port]/[your schema]?allowPublicKeyRetrieval=true&useSSL=false
-  spring.datasource.username=[your username]
-  spring.datasource.password=[your password]
-  spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+- Go to file `.../config/AppConfig.java` and make changes based on your database.    
+```
+  dataSource.setDriverClassName("com.mysql.jdbc.Driver");
+  dataSource.setUrl("jdbc:mysql://localhost:[your port]/[your schema]");
+  dataSource.setUsername([your username]);
+  dataSource.setPassword([your password]);
 ```
 ### Running:
 - Open terminal
 ```
-  cd [your path to ../Frontend+Register+Login]
+  cd [your path to ../Backend]
   mvn clean install
-  mvn spring-boot:run
+  mvn jetty:run
 ```
-`Access through:` http://localhost:9090/
 
-`Default ADMIN account:`
-> Username: admin
-> Password: admin123
+`Access through:` http://localhost:8080/ + [database name]
+
 
     
    
