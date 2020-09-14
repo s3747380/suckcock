@@ -28,9 +28,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;warwar&quot;">
+    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;war fuck&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +212,8 @@
       <workItem from="1599934582683" duration="4738000" />
       <workItem from="1600015271388" duration="5525000" />
       <workItem from="1600026830363" duration="334000" />
-      <workItem from="1600077141960" duration="3423000" />
+      <workItem from="1600077141960" duration="3917000" />
+      <workItem from="1600081234118" duration="213000" />
     </task>
     <task id="LOCAL-00001" summary="iuygfsh">
       <created>1600077161682</created>
@@ -255,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600079022525</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;war fuck&quot;">
+      <created>1600080582627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600080582627</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +292,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iuygfsh" />
@@ -290,7 +300,8 @@
     <MESSAGE value="&quot;war&quot;" />
     <MESSAGE value="&quot;fuck&quot;" />
     <MESSAGE value="&quot;warwar&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;warwar&quot;" />
+    <MESSAGE value="&quot;war fuck&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;war fuck&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1599205082657">

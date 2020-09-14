@@ -17,7 +17,7 @@ public class Main {
     }
 
     public static void Print(String target) throws IOException {
-        URL url = new URL("http://localhost:8080/"+target);
+        URL url = new URL("https://stormy-forest-61389.herokuapp.com/"+target);
 
         HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
 
