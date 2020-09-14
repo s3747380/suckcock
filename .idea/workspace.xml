@@ -28,27 +28,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;yupgit &quot;">
+    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;javax 2.2&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SampleHibernateSpringMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SampleHibernateSpringMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SampleHibernateSpringMVC_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SampleHibernateSpringMVC_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_2_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT/WEB-INF/classes/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/MyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/MyTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-MyTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.BookingControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.BookingControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.DoctorControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.DoctorControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.PatientControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.PatientControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-model.BookingModelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.BookingModelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-model.DoctorModelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.DoctorModelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-model.PatientModelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.PatientModelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/controller.BookingControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/controller.BookingControllerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/controller.DoctorControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/controller.DoctorControllerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/controller.PatientControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/controller.PatientControllerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/model.BookingModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/model.BookingModelTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/model.DoctorModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/model.DoctorModelTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/model.PatientModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/model.PatientModelTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +219,7 @@
       <workItem from="1600081234118" duration="579000" />
       <workItem from="1600100741996" duration="25000" />
       <workItem from="1600101473964" duration="83000" />
-      <workItem from="1600101694408" duration="296000" />
+      <workItem from="1600101694408" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="iuygfsh">
       <created>1600077161682</created>
@@ -299,7 +284,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600101544440</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;yupgit &quot;">
+      <created>1600102078495</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600102078495</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;yupgit &quot;">
+      <created>1600102254289</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600102254289</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;javax 2.2&quot;">
+      <created>1600102303933</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600102303933</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +343,9 @@
     <MESSAGE value="&quot;warwar&quot;" />
     <MESSAGE value="&quot;war fuck&quot;" />
     <MESSAGE value="&quot;yup&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;yup&quot;" />
+    <MESSAGE value="&quot;yupgit &quot;" />
+    <MESSAGE value="&quot;javax 2.2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;javax 2.2&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1599205082657">
