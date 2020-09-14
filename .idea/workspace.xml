@@ -28,25 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;fuck&quot;">
+    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;warwar&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/SampleHibernateSpringMVC-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/MyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/MyTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-MyTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.BookingControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.BookingControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.DoctorControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.DoctorControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.PatientControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-controller.PatientControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-model.BookingModelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.BookingModelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-model.DoctorModelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.DoctorModelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-model.PatientModelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.PatientModelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/controller.BookingControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/controller.BookingControllerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/controller.DoctorControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/controller.DoctorControllerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/controller.PatientControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/controller.PatientControllerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/model.BookingModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/model.BookingModelTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/model.DoctorModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/model.DoctorModelTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/model.PatientModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/model.PatientModelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +211,7 @@
       <workItem from="1599934582683" duration="4738000" />
       <workItem from="1600015271388" duration="5525000" />
       <workItem from="1600026830363" duration="334000" />
-      <workItem from="1600077141960" duration="1663000" />
+      <workItem from="1600077141960" duration="3423000" />
     </task>
     <task id="LOCAL-00001" summary="iuygfsh">
       <created>1600077161682</created>
@@ -257,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600078552474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;fuck&quot;">
+      <created>1600078818890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600078818890</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;warwar&quot;">
+      <created>1600079022525</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600079022525</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +289,8 @@
     <MESSAGE value="profile" />
     <MESSAGE value="&quot;war&quot;" />
     <MESSAGE value="&quot;fuck&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;fuck&quot;" />
+    <MESSAGE value="&quot;warwar&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;warwar&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1599205082657">
@@ -314,6 +313,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599212175857" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1600078839731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600078839731" />
   </component>
   <component name="masterDetails">
     <states>
