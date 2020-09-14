@@ -30,8 +30,6 @@
   <component name="ChangeListManager">
     <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;war fuck&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600027163965" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/suckcock-master/suckcock-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -213,7 +211,8 @@
       <workItem from="1600015271388" duration="5525000" />
       <workItem from="1600026830363" duration="334000" />
       <workItem from="1600077141960" duration="3917000" />
-      <workItem from="1600081234118" duration="213000" />
+      <workItem from="1600081234118" duration="579000" />
+      <workItem from="1600100741996" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="iuygfsh">
       <created>1600077161682</created>
@@ -264,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600080582627</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;war fuck&quot;">
+      <created>1600081489118</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600081489118</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +314,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599205082657" />
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1600100764018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600100764018" />
     <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1599212175857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
