@@ -19,11 +19,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="iuygfsh">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    <list default="true" id="97217b02-e8fb-4fca-9666-6062ae927518" name="Default Changelist" comment="&quot;war&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600027163965" />
@@ -203,7 +210,7 @@
       <workItem from="1599934582683" duration="4738000" />
       <workItem from="1600015271388" duration="5525000" />
       <workItem from="1600026830363" duration="334000" />
-      <workItem from="1600077141960" duration="300000" />
+      <workItem from="1600077141960" duration="1187000" />
     </task>
     <task id="LOCAL-00001" summary="iuygfsh">
       <created>1600077161682</created>
@@ -212,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600077161682</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="profile">
+      <created>1600077534365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600077534365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;war&quot;">
+      <created>1600077723696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600077723696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +244,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -231,7 +264,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iuygfsh" />
-    <option name="LAST_COMMIT_MESSAGE" value="iuygfsh" />
+    <MESSAGE value="profile" />
+    <MESSAGE value="&quot;war&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;war&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1599205082657">
